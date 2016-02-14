@@ -1,0 +1,14 @@
+.DS_Store
+.Rhistory
+output/figures
+R/old
+R/matrix
+
+*.zip
+
+doc/proofs
+doc/revisions
+doc/submission
+
+data/wave_db_hxua.txt
+
